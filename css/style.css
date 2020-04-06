@@ -1,0 +1,313 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: middle;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+.content-wrapper {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 960px;
+  max-height: 500px;
+}
+
+.button {
+  background-color: Azure;
+  border: none;
+  border-radius: 12px;
+  color: LightSeaGreen;
+  padding: 10px 24px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+#container{
+    position: absolute;
+    margin:auto;
+    width: 755px;
+    height :987px;
+   background-color: transparent;
+}
+
+#background{
+    position:absolute;
+    width:555px;
+    height:987px;
+    left:100px;
+    right: 100px;
+    background-color: transparent;
+    /*background-image: url("../img/resized_background.png");*/
+    
+    
+    
+    
+}
+
+#hatback{
+     position:absolute;
+    width:555px;
+    height:987px;
+    
+    
+  
+    
+    
+}
+
+.hatback{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url("../img/hatback.png");
+    
+}
+#man{
+    position:absolute;
+    width:555px;
+    height:987px;
+    
+    
+    background-image: url("../img/body.png");
+    
+    
+    
+ 
+}
+
+#shoes{
+     position:absolute;
+    width:555px;
+    height:987px;
+    
+    
+    
+    
+}
+
+.shoe1{
+     position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe1.png);
+    
+    
+    
+    
+}
+
+.shoe2{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe2.png);
+    
+}
+
+.shoe3{
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/shoe3.png);
+}
+
+#clothes{
+    
+     position:absolute;
+    width:555px;
+    height:987px;
+    
+    
+    
+    
+}
+
+.dress1{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress1.png);
+}
+
+.dress2{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress2.png);
+}
+
+.dress3{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress3.png);
+}
+
+.dress4{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress4.png);
+}
+
+.dress5{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress5.png);
+}
+
+.dress6{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/dress6.png);
+}
+
+
+#hatfront{
+     position:absolute;
+    width:555px;
+    height:987px;
+    
+    
+    
+    
+    
+}
+
+.hatfront1{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hatfront1.png);
+}
+
+.hatfront2{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hatfront2.png);
+}
+
+.hatfront3{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hatfront3.png);
+}
+
+.hatfront4{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hatfront4.png);
+}
+
+.hatfront5{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hatfront5.png);
+}
+
+.hatfront6{
+    
+    position:absolute;
+    width:555px;
+    height:987px;
+    background-image: url(../img/hatfront6.png);
+}
+
+#nexthat{
+    position:absolute;
+    right:50px;
+    top:150px;
+}
+
+#nextdress{
+    position:absolute;
+    right:50px;
+    top:400px;
+}
+
+#nextshoe{
+    position:absolute;
+    right:50px;
+    top:750px;
+}
+
+#prevhat{
+    position:absolute;
+    left:50px;
+    top:150px;
+}
+
+#prevdress{
+    position:absolute;
+    left:50px;
+    top:400px;
+}
+
+#prevshoe{
+    position:absolute;
+    left:50px;
+    top:750px;
+}
