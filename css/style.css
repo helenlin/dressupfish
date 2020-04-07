@@ -71,7 +71,7 @@ table {
 #container{
     position: absolute;
     margin:auto;
-    width: 755px;
+    width: 278px;
     height :494px;
    background-color: transparent;
 }
@@ -279,35 +279,35 @@ table {
 #nexthat{
     position:absolute;
     right:50px;
-    top:150px;
+    top:75px;
 }
 
 #nextdress{
     position:absolute;
     right:50px;
-    top:400px;
+    top:275px;
 }
 
 #nextshoe{
     position:absolute;
     right:50px;
-    top:750px;
+    top:475px;
 }
 
 #prevhat{
     position:absolute;
     left:50px;
-    top:150px;
+    top:75px;
 }
 
 #prevdress{
     position:absolute;
     left:50px;
-    top:400px;
+    top:275px;
 }
 
 #prevshoe{
     position:absolute;
     left:50px;
-    top:750px;
+    top:475px;
 }
