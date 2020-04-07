@@ -72,14 +72,14 @@ table {
     position: absolute;
     margin:auto;
     width: 755px;
-    height :987px;
+    height :494px;
    background-color: transparent;
 }
 
 #background{
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     left:100px;
     right: 100px;
     background-color: transparent;
@@ -92,8 +92,8 @@ table {
 
 #hatback{
      position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     
     
   
@@ -103,15 +103,15 @@ table {
 
 .hatback{
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url("../img/hatback.png");
     
 }
 #man{
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     
     
     background-image: url("../img/body.png");
@@ -123,8 +123,8 @@ table {
 
 #shoes{
      position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     
     
     
@@ -133,8 +133,8 @@ table {
 
 .shoe1{
      position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/shoe1.png);
     
     
@@ -144,24 +144,24 @@ table {
 
 .shoe2{
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/shoe2.png);
     
 }
 
 .shoe3{
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/shoe3.png);
 }
 
 #clothes{
     
      position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     
     
     
@@ -171,56 +171,56 @@ table {
 .dress1{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/dress1.png);
 }
 
 .dress2{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/dress2.png);
 }
 
 .dress3{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/dress3.png);
 }
 
 .dress4{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/dress4.png);
 }
 
 .dress5{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/dress5.png);
 }
 
 .dress6{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/dress6.png);
 }
 
 
 #hatfront{
      position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     
     
     
@@ -231,48 +231,48 @@ table {
 .hatfront1{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/hatfront1.png);
 }
 
 .hatfront2{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/hatfront2.png);
 }
 
 .hatfront3{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/hatfront3.png);
 }
 
 .hatfront4{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/hatfront4.png);
 }
 
 .hatfront5{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/hatfront5.png);
 }
 
 .hatfront6{
     
     position:absolute;
-    width:555px;
-    height:987px;
+    width:278px;
+    height:494px;
     background-image: url(../img/hatfront6.png);
 }
 
