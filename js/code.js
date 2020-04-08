@@ -120,8 +120,8 @@ function prevshoe()
     console.log(state.j);
     var shoe=document.getElementById("shoes");
     if(state.j===0){
-    shoe.setAttribute("class","shoe3");
-        state.j=2;
+    shoe.setAttribute("class","shoe7");
+        state.j=6;
         console.log(state.j);
     }
     else
@@ -136,7 +136,30 @@ function prevshoe()
          state.j--;
          console.log(state.j);
     }
-    
+        else
+     if(state.j===3){
+    shoe.setAttribute("class","shoe3");
+         state.j--;
+         console.log(state.j);
+    }
+    else
+     if(state.j===4){
+    shoe.setAttribute("class","shoe4");
+         state.j--;
+         console.log(state.j);
+    }
+        else
+     if(state.j===5){
+    shoe.setAttribute("class","shoe5");
+         state.j--;
+         console.log(state.j);
+    }
+    else
+     if(state.j===6){
+    shoe.setAttribute("class","shoe6");
+         state.j--;
+         console.log(state.j);
+    }
 }
 
 function nextshoe()
@@ -158,10 +181,33 @@ function nextshoe()
     else
      if(state.j===2){
     shoe.setAttribute("class","shoe3");
+         state.j++;
+         console.log(state.j);
+    }
+    else
+     if(state.j===3){
+    shoe.setAttribute("class","shoe4");
+         state.j++;
+         console.log(state.j);
+    }
+    else
+     if(state.j===4){
+    shoe.setAttribute("class","shoe5");
+         state.j++;
+         console.log(state.j);
+    }
+    else
+     if(state.j===5){
+    shoe.setAttribute("class","shoe6");
+         state.j++;
+         console.log(state.j);
+    }
+    else
+     if(state.j===6){
+    shoe.setAttribute("class","shoe7");
          state.j=0;
          console.log(state.j);
     }
-    
 }
 
 
@@ -176,7 +222,7 @@ function prevhat()
 
     if(state.k===0){
     hatf.setAttribute("class","hatfront7");
-        state.k=5;
+        state.k=6;
         console.log(state.k);
     }
     else
@@ -206,6 +252,12 @@ function prevhat()
     else
      if(state.k===5){
     hatf.setAttribute("class","hatfront5");
+         state.k--;
+         console.log(state.k);
+    }
+            else
+     if(state.k===6){
+    hatf.setAttribute("class","hatfront6");
          state.k--;
          console.log(state.k);
     }
@@ -253,6 +305,12 @@ function nexthat()
     else
      if(state.k===5){
     hatf.setAttribute("class","hatfront6");
+         state.k++;
+         console.log(state.k);
+    }
+    else
+    if(state.k===6){
+    hatf.setAttribute("class","hatfront7");
          state.k=0;
          console.log(state.k);
     }

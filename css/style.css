@@ -175,6 +175,36 @@ table {
     background-image: url(../img/shoe3.png);
 }
 
+.shoe4{
+    position:absolute;
+    width:278px;
+    height:494px;
+    background-image: url(../img/shoe4.png);
+    
+}
+
+.shoe5{
+    position:absolute;
+    width:278px;
+    height:494px;
+    background-image: url(../img/shoe5.png);
+}
+
+.shoe6{
+    position:absolute;
+    width:278px;
+    height:494px;
+    background-image: url(../img/shoe6.png);
+    
+}
+
+.shoe7{
+    position:absolute;
+    width:278px;
+    height:494px;
+    background-image: url(../img/shoe7.png);
+}
+
 #clothes{
     
      position:absolute;
@@ -232,6 +262,14 @@ table {
     width:278px;
     height:494px;
     background-image: url(../img/dress6.png);
+}
+
+.dress7{
+    
+    position:absolute;
+    width:278px;
+    height:494px;
+    background-image: url(../img/dress7.png);
 }
 
 
@@ -292,6 +330,14 @@ table {
     width:278px;
     height:494px;
     background-image: url(../img/hatfront6.png);
+}
+
+.hatfront7{
+    
+    position:absolute;
+    width:278px;
+    height:494px;
+    background-image: url(../img/hatfront7.png);
 }
 
 #nexthat{
